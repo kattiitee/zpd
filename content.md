@@ -1,12 +1,14 @@
 ## izveidot number guessing spēli ar python programmēšanas valodu
 
-### Saturs
+### dokumenta Saturs
 #### 1. aprakstīt spēli
+insteresanta spēle, kas attīsta loģiku
 #### 2. spēles loģika
 
 dators nejauši uzmin vienu skaitli no 1 līdz 100, piedāvā spēlētājam uzminēt to skaitli
 
 spēles notika pēc šī koda:
+'''py
 import random
 
 repeat = True
@@ -41,6 +43,6 @@ while repeat:
     else:
         repeat = False
         print("Paldies par spēli!  Bye, bye!")
-
+'''py
 
 #### 3. u.t.t
