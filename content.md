@@ -7,6 +7,7 @@ insteresanta spēle, kas attīsta loģiku
 
 dators nejauši uzmin vienu skaitli no 1 līdz 100, piedāvā spēlētājam uzminēt to skaitli
 
+spēlē izmantots šāds kods:
 
 ```py
 import random
