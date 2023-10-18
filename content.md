@@ -8,7 +8,7 @@ insteresanta spēle, kas attīsta loģiku
 dators nejauši uzmin vienu skaitli no 1 līdz 100, piedāvā spēlētājam uzminēt to skaitli
 
 
-'''py
+```py
 import random
 
 repeat = True
@@ -43,6 +43,6 @@ while repeat:
     else:
         repeat = False
         print("Paldies par spēli!  Bye, bye!")
-'''py
+```py
 
 #### 3. u.t.t
